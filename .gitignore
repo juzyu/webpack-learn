@@ -1,0 +1,7 @@
+package-lock.json
+git.txt
+node_modules/
+dist/
+public/
+.history/
+vendor/
